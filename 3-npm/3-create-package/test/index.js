@@ -1,4 +1,4 @@
-const print = require('../frame-print');
+const print = require('racha');
 
 print('Hello NPM!');
 
